@@ -85,3 +85,6 @@ C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource
 C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipTypes.resources
+C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
