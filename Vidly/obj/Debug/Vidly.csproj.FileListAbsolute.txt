@@ -88,3 +88,6 @@ C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMemb
 C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
 C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipTypes.resources
 C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+C:\Users\Me\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
