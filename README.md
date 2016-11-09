@@ -1,1 +1,1 @@
-# ASP.NET MVC Move Database
+# ASP.NET MVC Movie Database
